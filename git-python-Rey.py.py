@@ -5,3 +5,8 @@ print ("Marinduque State College");
 print ("BSIT");
 print ("Second Year");
 print ("Section B");
+print ("Playing");
+print ("Basketball");
+print ("Watching movies");
+print ("Listening to musics");
+print ("Singing");
